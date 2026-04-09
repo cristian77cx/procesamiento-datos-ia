@@ -2,6 +2,27 @@
 
 Proyecto de procesamiento, limpieza y preparación de datos para entrenar modelos de inteligencia artificial.
 
+## 🚀 **DEMO INTERACTIVA - ¡Pruébalo Ahora!**
+
+### Aplicación Web en Vivo
+
+```bash
+streamlit run app.py
+```
+
+**La aplicación se abrirá en tu navegador:** `http://localhost:8501`
+
+### ✨ Lo que puedes hacer en la app:
+
+- 📁 **Subir tus propios archivos** CSV o Excel
+- 🎲 **Generar datos de ejemplo** con un clic
+- 🧹 **Limpiar datos automáticamente** (duplicados, nulos, outliers)
+- 📊 **Ver visualizaciones interactivas** en tiempo real
+- 🤖 **Preparar datos para Machine Learning** automáticamente
+- ⬇️ **Descargar resultados procesados** listos para usar
+
+---
+
 ## 🎯 Objetivo
 
 Desarrollar un pipeline completo de procesamiento de datos que incluya:
